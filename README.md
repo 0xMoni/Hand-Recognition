@@ -8,6 +8,12 @@ A simple hand gesture recognition system using OpenCV and MediaPipe to detect ha
 - Real-time hand tracking and gesture recognition  
 - Can be extended for more complex gestures, including sign language detection  
 
+## Requirements
+- Python 3.x  
+- OpenCV (`opencv-python`)  
+- MediaPipe (`mediapipe`)  
+- NumPy (`numpy`)
+  
 ## Installation  
 1. Clone the repository:  
    ```bash
